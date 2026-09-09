@@ -7,13 +7,18 @@
 ```
 Macaco antropomórfico pequeno (sempre menor que qualquer humano adulto na 
 cena — escala de macaco de verdade, nunca do tamanho de uma pessoa). 
-Pelagem dourada/âmbar, textura espetada e despenteada. Sobrancelhas 
-grossas e escuras, bem expressivas, olhos castanhos grandes, sorriso 
-confiante e sapeca. Coroa dourada pequena e elegante, de 5 pontas. Cauda 
-longa e enroscada. Veste um robe vermelho-alaranjado estilo envelope 
-(aberto no peito, tipo quimono), mangas largas, comprimento até o joelho, 
-amarrado na cintura com faixa/cordão dourado. Carrega um bastão longo de 
-madeira escura, com anéis/gomos dourados decorativos nas duas pontas.
+Pelagem dourada/âmbar. O pelo da cabeça é mais espetado, irregular e 
+desgrenhado, formado por tufos pontudos e orgânicos, especialmente ao redor 
+da testa e próximo à coroa. No corpo, braços e pernas, a pelagem continua 
+claramente visível, mas é representada por massas suaves de aquarela e 
+pinceladas orgânicas, com volume e direção sugeridos pela pintura, sem 
+desenhar fios individuais. Sobrancelhas grossas e escuras, bem expressivas, 
+olhos castanhos grandes, sorriso confiante e sapeca. Coroa dourada pequena 
+e elegante, de 5 pontas. Cauda longa e enroscada. Veste um robe 
+vermelho-alaranjado estilo envelope (aberto no peito, tipo quimono), mangas 
+largas, comprimento até o joelho, amarrado na cintura com faixa/cordão 
+dourado. Carrega um bastão longo de madeira escura, com anéis/gomos dourados 
+decorativos nas duas pontas.
 ```
 
 ## Notas de continuidade
